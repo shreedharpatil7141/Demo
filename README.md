@@ -47,12 +47,12 @@ RealTimeObjectDetection/
 git clone https://github.com/your-username/RealTimeObjectDetection.git
 cd RealTimeObjectDetection
 ```
-#📚 Resources
+📚 Resources
 - **TensorFlow Object Detection API GitHub**
 - **Model Zoo**
 - **OpenCV Documentation**
 
-#📌 Applications
+📌 Applications
 - **Surveillance systems**
 - **Smart cameras**
 - **Autonomous vehicles**
