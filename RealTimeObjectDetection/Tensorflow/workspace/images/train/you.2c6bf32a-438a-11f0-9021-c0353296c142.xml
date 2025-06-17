@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>you.2c6bf32a-438a-11f0-9021-c0353296c142.jpg</filename>
+	<path>C:\Users\Shreedhargouda Patil\Demo\RealTimeObjectDetection-main\Tensorflow\workspace\images\collectedimages\you.2c6bf32a-438a-11f0-9021-c0353296c142.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>you</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>253</xmin>
+			<ymin>378</ymin>
+			<xmax>385</xmax>
+			<ymax>477</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>Hate.4d86aa2a-4389-11f0-8037-c0353296c142.jpg</filename>
+	<path>C:\Users\Shreedhargouda Patil\Demo\RealTimeObjectDetection-main\Tensorflow\workspace\images\collectedimages\Hate.4d86aa2a-4389-11f0-8037-c0353296c142.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>299</xmin>
+			<ymin>269</ymin>
+			<xmax>553</xmax>
+			<ymax>478</ymax>
+		</bndbox>
+	</object>
+</annotation>

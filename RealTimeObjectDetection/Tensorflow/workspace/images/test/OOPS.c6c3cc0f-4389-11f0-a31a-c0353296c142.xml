@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>OOPS.c6c3cc0f-4389-11f0-a31a-c0353296c142.jpg</filename>
+	<path>C:\Users\Shreedhargouda Patil\Demo\RealTimeObjectDetection-main\Tensorflow\workspace\images\collectedimages\OOPS.c6c3cc0f-4389-11f0-a31a-c0353296c142.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>OOPS</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>244</xmin>
+			<ymin>101</ymin>
+			<xmax>348</xmax>
+			<ymax>267</ymax>
+		</bndbox>
+	</object>
+</annotation>
